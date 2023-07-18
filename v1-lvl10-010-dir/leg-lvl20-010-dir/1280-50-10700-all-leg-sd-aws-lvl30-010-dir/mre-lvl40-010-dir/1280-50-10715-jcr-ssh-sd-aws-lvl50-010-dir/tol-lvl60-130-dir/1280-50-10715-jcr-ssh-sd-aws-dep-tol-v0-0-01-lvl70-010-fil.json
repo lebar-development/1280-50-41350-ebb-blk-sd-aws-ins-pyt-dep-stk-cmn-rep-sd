@@ -1,3 +1,13 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "toolListKEY": [
+    {
+      "tool1NameKEY": "aws-cli",
+      "tool1VersionNumberKEY": "2.02.1"
+    },
+    {
+      "tool2NameKEY": "putty",
+      "tool2VersionNumberKEY": "0.76"
+    }
+  ]
 }
