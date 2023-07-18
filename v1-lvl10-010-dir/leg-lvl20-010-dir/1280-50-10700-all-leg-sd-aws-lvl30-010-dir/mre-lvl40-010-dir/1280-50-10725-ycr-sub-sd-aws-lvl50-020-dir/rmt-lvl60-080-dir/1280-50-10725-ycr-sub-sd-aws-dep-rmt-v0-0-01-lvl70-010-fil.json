@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "GomdoriTrollBOT",
+  "resourceNameKEY": "ec2-jump-block-one-2a-1280-50-sub-sd",
+  "cfqridKEY": "1280-50-10725-ycr-sub-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-50-10725-ycr-sub-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10700KEY": "10725",
+  "deletionProtectionFlag10700KEY": "none"
 }
