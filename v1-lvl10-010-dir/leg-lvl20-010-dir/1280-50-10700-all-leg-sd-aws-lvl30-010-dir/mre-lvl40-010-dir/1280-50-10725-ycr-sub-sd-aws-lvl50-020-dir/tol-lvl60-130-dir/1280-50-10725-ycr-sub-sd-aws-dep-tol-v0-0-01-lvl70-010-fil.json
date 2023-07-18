@@ -1,9 +1,5 @@
 {
   "resourceMetadataKEY": "yes",
-  "toolListKEY": [
-    {
-      "tool1NameKEY": "aws-cli",
-      "tool1VersionNumberKEY": "2.02.1"
-    }
-  ]
+  "tool1NameKEY": "awscli",
+  "tool1VersionNumberKEY": "2.02.1"
 }

@@ -1,9 +1,5 @@
 {
   "resourceMetadataKEY": "yes",
-  "packageListKEY": [
-    {
-      "package1NameKEY": "aws_Cli_Version",
-      "package1VersionNumberKEY": "2.02.1"
-    }
-  ]
+  "package1NameKEY": "aws_Cli_Version",
+  "package1VersionNumberKEY": "2.02.1"
 }
