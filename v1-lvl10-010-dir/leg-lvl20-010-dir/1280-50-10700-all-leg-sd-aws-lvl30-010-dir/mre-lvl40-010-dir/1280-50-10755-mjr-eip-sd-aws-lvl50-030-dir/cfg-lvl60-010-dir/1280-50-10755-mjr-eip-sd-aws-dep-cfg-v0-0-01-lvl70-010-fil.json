@@ -1,3 +1,19 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "eipNameKEY": "jump-block-one-1280-50-eip-sd",
+  "resourceTypeKEY": "eip",
+  "resourceStringTypeKEY": "none",
+  "eipTextKEY": "XXXX",
+  "resourceDescriptionKEY": "This eip resource is used to create the Jump resource.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "SidFretTrollBOT",
+    "ifqridKEY": "1280-50-10755-mjr-eip-sd-aws",
+    "resourceTypeKEY": "eip",
+    "blockNumberKEY": "1280-50",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }

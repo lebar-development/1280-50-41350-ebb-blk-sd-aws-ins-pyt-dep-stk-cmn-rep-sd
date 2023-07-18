@@ -1,3 +1,19 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "subnetNameKEY": "ec2-jump-block-one-2a-1280-50-sub-sd",
+  "resourceTypeKEY": "subnet",
+  "resourceStringTypeKEY": "none",
+  "subnetTextKEY": "XXXX",
+  "resourceDescriptionKEY": "This subnet resource is used to create the Jump resource.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "GomdoriTrollBOT",
+    "cfqridKEY": "1280-50-10725-ycr-sub-sd-aws",
+    "resourceTypeKEY": "sub",
+    "blockNumberKEY": "1280-50",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }
