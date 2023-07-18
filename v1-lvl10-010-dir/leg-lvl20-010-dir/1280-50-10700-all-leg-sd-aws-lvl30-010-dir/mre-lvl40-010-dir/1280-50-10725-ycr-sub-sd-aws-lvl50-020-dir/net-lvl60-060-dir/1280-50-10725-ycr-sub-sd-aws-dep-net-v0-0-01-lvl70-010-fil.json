@@ -1,3 +1,6 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "vpcIDKEY": "vpc-01f2f78a96c5df9a8",
+  "aSubnetIDKEY": "subnet-0833b492c77177f1b",
+  "vpcCNIVersionNumberKEY": "1.10.1"
 }
