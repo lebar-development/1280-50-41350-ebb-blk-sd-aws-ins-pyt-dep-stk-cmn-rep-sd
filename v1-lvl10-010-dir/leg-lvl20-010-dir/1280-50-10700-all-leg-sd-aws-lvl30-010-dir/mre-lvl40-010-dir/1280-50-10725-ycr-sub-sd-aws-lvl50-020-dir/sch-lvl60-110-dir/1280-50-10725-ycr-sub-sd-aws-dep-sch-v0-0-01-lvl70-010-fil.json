@@ -1,6 +1,6 @@
 {
   "resourceMetadataKEY": "yes",
-  "subnetTextKEY": "This subnet resource is used to create the Jump resoure",
+  "subnetTextKEY": "This subnet resource is used to create the Jump resource",
   "resourceTagKEY": {
     "ticketIDKEY": "ticket-number",
     "deploymentDateKEY": "current-date"

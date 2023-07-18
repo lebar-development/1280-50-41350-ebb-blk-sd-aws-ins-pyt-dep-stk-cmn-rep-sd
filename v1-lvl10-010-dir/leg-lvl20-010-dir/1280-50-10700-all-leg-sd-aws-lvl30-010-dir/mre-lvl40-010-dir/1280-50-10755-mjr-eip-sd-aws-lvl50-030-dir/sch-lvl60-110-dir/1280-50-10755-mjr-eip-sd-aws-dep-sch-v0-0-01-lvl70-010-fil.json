@@ -1,8 +1,9 @@
 {
   "resourceMetadataKEY": "yes",
-  "eipTextKEY": "This eip resource is used to create the Jump resoure",
+  "eipTextKEY": "This eip resource is used to create the Jump resource",
   "resourceTagKEY": {
     "ticketIDKEY": "ticket-number",
     "deploymentDateKEY": "current-date"
   }
 }
+
