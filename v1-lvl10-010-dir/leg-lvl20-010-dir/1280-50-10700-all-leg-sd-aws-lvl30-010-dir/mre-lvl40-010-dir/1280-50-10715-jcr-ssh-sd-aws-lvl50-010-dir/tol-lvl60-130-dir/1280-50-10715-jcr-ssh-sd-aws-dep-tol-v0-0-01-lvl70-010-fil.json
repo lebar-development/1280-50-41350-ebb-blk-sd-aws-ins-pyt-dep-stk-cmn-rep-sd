@@ -1,7 +1,7 @@
 {
   "resourceMetadataKEY": "yes",
   "tool1NameKEY": "awscli",
-  "tool1VersionNumberKEY": "2.4.7",
+  "tool1VersionNumberKEY": "2.02.1",
   "tool2NameKEY": "putty",
   "tool2VersionNumberKEY": "0.76"
 }
