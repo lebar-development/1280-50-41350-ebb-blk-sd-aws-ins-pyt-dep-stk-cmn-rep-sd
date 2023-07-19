@@ -3,7 +3,7 @@
   "subnetNameKEY": "ec2-jump-block-one-2a-1280-50-sub-sd",
   "resourceTypeKEY": "subnet",
   "resourceStringTypeKEY": "none",
-  "subnetTextKEY": "XXXX",
+  "subnetTextKEY": "misc-2a",
   "resourceDescriptionKEY": "This subnet resource is used to create the Jump resource.",
   "resourceTagKEY": {
     "aliasNameKEY": "none",
